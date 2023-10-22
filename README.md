@@ -1,8 +1,23 @@
-### Hi there 👋
+<h1>Hi, I'm Jonathan! </h1>
+
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+- <b>TBD</b>
+  - [TBD](https://github.com/tbd)
+
+<h2>👨‍💻 Governance, Risks, and Compliance Projects:</h2>
+
+- <b>TBD</b>
+  - [TBD](https://github.com/TBD)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JonathanCarpenter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/jonathanwcarpenter/
 
 <!--
-**JonathanCarpenter/JonathanCarpenter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
