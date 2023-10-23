@@ -2,36 +2,36 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Develop an Incident Response Plan</b>
+- <b>Vulnerability Assessment and Remediation</b>
   - [TBD](https://github.com/tbd)
  
-- <b>Conducting a Penetration Test</b>
+- <b>Incident Response Plan Development</b>
   - [TBD](https://github.com/tbd)
  
-- <b>Develop a Security Awareness Training Program</b>
+- <b>Security Awareness Training Program</b>
   - [TBD](https://github.com/tbd)
  
-- <b>Build a Security Information and Event Management System (SIEM)</b>
+- <b>Penetration Testing and Reporting</b>
   - [TBD](https://github.com/tbd)
  
-- <b>Develope a Zero-Trust Security Model</b>
+- <b>Security Policy and Procedure Review</b>
   - [TBD](https://github.com/tbd)
 
 <h2>👨‍💻 Governance, Risks, and Compliance Projects:</h2>
 
-- <b>Create a Business Continuity Plan</b>
+- <b>Compliance Assessment</b>
   - [TBD](https://github.com/TBD)
 
-- <b>Implement a Disaster Recovery Plan</b>
+- <b>Risk Management Framework Implementation</b>
   - [TBD](https://github.com/TBD)
  
-- <b>Conduct a Privacy Impact Assessment</b>
+- <b>Business Continuity and Disaster Recovery Plan</b>
   - [TBD](https://github.com/TBD)
  
-- <b>Develop a Compliance Program</b>
+- <b>Privacy Impact Assessment (PIA)</b>
   - [TBD](https://github.com/TBD)
  
-- <b>Implement a Risk Management Framework</b>
+- <b>Third-Party Vendor Risk Assessment</b>
   - [TBD](https://github.com/TBD)
 
 
